@@ -1,0 +1,31 @@
+1. Why do you need doctype html?
+2. What's new in HTML 5.1?
+3.  How do you set language in html?
+4.  Meta tags in HTML
+5. What is character encoding in html means?
+6. Cookies, Session Storage, Local Storage difference?
+7. What is the use of data-* attributes in html?
+8. Async, Defer, Hidden, attributes
+9.  What are Web Workers?
+10. What is WebSQL?
+11. What is WebP?
+12. What is an IndexedDB?
+13. How do you set IE compatibility mode?
+14. What's the difference between full standard, almost standard and quirks mode?
+15. What is the DOM?
+16. What is WHATWG?
+17. What's new in HTML 5?
+18. What does HTML commenting look like?
+19. What is a class? and What is an ID?
+20. HTML Validations
+21. What is an iframe and how it works?
+22. How do you serve multi language sites?
+23. Cookies, Session Storage, Local Storage difference?
+24. What is the use of data-* attributes in html?
+25. Async, Defer, Hidden, attributes
+26. What is a HTML preprocessor and are you using it?
+27. Accessibility (a11y) & WAI-ARIA roles
+28. What are the browsers you support in your development?
+29. What are Web Components & Shadow DOM?
+30. Picture, srcset and sizes for responsive images
+31. SVG’s and Canvas, WebGL
