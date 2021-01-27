@@ -16,5 +16,4 @@
 16. What is prop drilling in React?
 17. What are error boundaries?
 
-# solutions
-[solutions](https://www.interviewbit.com/react-interview-questions/)
+Solutions can be found in this site-> https://www.interviewbit.com/react-interview-questions
