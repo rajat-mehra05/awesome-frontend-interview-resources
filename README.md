@@ -11,11 +11,20 @@ A big thank you to the authors of below blogs and links.
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
 - [Top 155 React Interview questions](https://www.fullstack.cafe/interview-questions/react)
 
+## Coding practices
+
+- [Learn by actual coding](https://academy.bigbinary.com/) by Big Binary
+
 ## Books
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+## Placement Stories
+
+- [Interview rejections and experience](https://muskan611998jain.medium.com/placement-stories-interview-experiences-rejections-756f0c4b1166) by Muskan Jain
+- [Unacademy Interview experience](https://rajatgupta.xyz/unacademy-interview) by [Rajat Gupta](https://github.com/rajatetc)
+
 # Note
 - If you find this repo helpful, fork it and let others know.
-- if you wish to contribute to this repository, feel free to make a pull request.
+- If you wish to contribute to this repository, feel free to make a pull request.
    I will review it and merge it if I find it helpful.
