@@ -5,10 +5,15 @@
 - [JavaScript Interview advanced questions](https://rajatgupta.xyz/js-interview-2) by [Rajat Gupta](https://github.com/rajatetc)
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
 - [Top 155 React Interview questions](https://www.fullstack.cafe/interview-questions/react)
+- [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
 
 ## Coding practices
 
 - [Learn by actual coding](https://academy.bigbinary.com/) by Big Binary
+
+## JavaScript Algorithms
+
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms) by [Oleksii Trekhleb](https://github.com/trekhleb)
 
 ## Books
 
