@@ -1,4 +1,4 @@
-## Frontend Interview related questions resources
+## Frontend Interview related questions (resources)
 
 - [Coding Problems faced in JavaScript](https://devdebarshi.hashnode.dev/crack-the-next-js-interview-part-1) by [Debarshi Bhattacharjee](https://github.com/Debarshi95)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
