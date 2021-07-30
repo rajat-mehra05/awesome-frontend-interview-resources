@@ -29,7 +29,7 @@
  
 - If you wish to search/sort/filter/group companies, check [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) 
 
- - HasJob(https://hasjob.co/)
+ - [HasJob](https://hasjob.co/)
     
 
 ## Placement Stories
