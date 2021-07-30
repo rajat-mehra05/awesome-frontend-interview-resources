@@ -19,7 +19,7 @@
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
-## Hiring without whiteboards
+## Find jobs here (any domain)
 
 - [List of companies](https://github.com/poteto/hiring-without-whiteboards) by [Lauren Tan](https://github.com/poteto)
   
@@ -28,6 +28,8 @@
       For example, pairing on a real world problem or a paid/unpaid take home exercise.
  
 - If you wish to search/sort/filter/group companies, check [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) 
+
+ - HasJob(https://hasjob.co/)
     
 
 ## Placement Stories
