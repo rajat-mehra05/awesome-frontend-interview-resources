@@ -19,6 +19,14 @@
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+## Hiring without whiteboards
+
+- [List of companies](https://github.com/poteto/hiring-without-whiteboards) by [Lauren Tan](https://github.com/poteto)
+  
+   1. Companies that don't have a broken hiring process
+   2. The companies and teams listed here use interview techniques and questions that resemble day-to-day work. 
+      For example, pairing on a real world problem or a paid/unpaid take home exercise.
+
 ## Placement Stories
 
 - [Interview rejections and experience](https://muskan611998jain.medium.com/placement-stories-interview-experiences-rejections-756f0c4b1166) by Muskan Jain
@@ -28,6 +36,8 @@
 A big thank you to the authors of respective blogs and repos. 🔥
 
 # Note
+
+- I created this repository so that people could reach out to various useful resoucres/repos of others from a single place.
 - If you find this repo helpful, fork it and let others know.
 - If you wish to contribute to this repository, feel free to make a pull request.
    I will review it and merge it if I find it helpful.
