@@ -19,6 +19,12 @@
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+
+## Design Patterns in JavaScript
+
+ - [JavaScript Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
+ - [JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) book by Addy Osmani
+
 ## Find jobs here (any domain)
 
 - [List of companies](https://github.com/poteto/hiring-without-whiteboards) by [Lauren Tan](https://github.com/poteto)
