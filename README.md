@@ -6,6 +6,7 @@
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
 - [Top 155 React Interview questions](https://www.fullstack.cafe/interview-questions/react)
 - [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
+- [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 
 ## Coding practices
 
