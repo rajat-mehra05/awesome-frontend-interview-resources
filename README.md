@@ -19,6 +19,10 @@
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+## How to write clean code in JavaScript ?
+ 
+- [Clean code in JS](https://github.com/ryanmcdermott/clean-code-javascript)
+
 
 ## Design Patterns in JavaScript
 
