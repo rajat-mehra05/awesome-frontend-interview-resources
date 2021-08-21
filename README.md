@@ -53,7 +53,7 @@ A big thank you to the authors of respective blogs and repos. 🔥
 
 # Note
 
-- I created this repository so that people could reach out to various useful resoucres/repos of others from a single place.
+- I created this repository so that people could reach out to various useful resources/repos of others from a single place.
 - If you find this repo helpful, fork it and let others know.
 - If you wish to contribute to this repository, feel free to make a pull request.
    I will review it and merge it if I find it helpful.
