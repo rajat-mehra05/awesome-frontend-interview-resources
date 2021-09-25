@@ -12,6 +12,7 @@
 ## React resources to learn
 
 - [Articles/Blogs resources](https://reactresources.com/articles)
+- [React with webpack resource](https://www.packtpub.com/product/hands-on-webpack-for-react-development-video/9781789139808)
 
 ## Coding practices
 
