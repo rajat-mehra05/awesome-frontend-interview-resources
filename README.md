@@ -8,6 +8,11 @@
 - [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 
+
+## React resources to learn
+
+- [Articles/Blogs resources](https://reactresources.com/articles)
+
 ## Coding practices
 
 - [Learn by actual coding](https://academy.bigbinary.com/) by Big Binary
