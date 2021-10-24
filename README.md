@@ -57,6 +57,7 @@
 
 - [Interview rejections and experience](https://muskan611998jain.medium.com/placement-stories-interview-experiences-rejections-756f0c4b1166) by Muskan Jain
 - [Unacademy Interview experience](https://rajatgupta.xyz/unacademy-interview) by [Rajat Gupta](https://github.com/rajatetc)
+- [Byjus Interview experience](https://webscript.info/rizwan/byju-s-front-end-software-engineer-interview-experience-and-questions-6173d821a9bac) by Rizwan Khan
 
 # Thank you to the authors :)
 A big thank you to the authors of respective blogs and repos. 🔥
