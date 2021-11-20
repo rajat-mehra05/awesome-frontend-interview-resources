@@ -9,6 +9,12 @@
 - [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 
+
+## Practice mock interviews
+
+- [Pramp](https://www.pramp.com/#/)
+- [Interviewing.io](https://interviewing.io/)
+
 ## Coding Challenges in JavaScript
 
 - [JavaScript coding challenges](https://github.com/sadanandpai/javascript-code-challenges) by [Sadanand Pai](https://github.com/sadanandpai)
