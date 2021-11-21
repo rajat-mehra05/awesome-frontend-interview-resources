@@ -47,6 +47,12 @@
  - [JavaScript Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
  - [JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) book by Addy Osmani
 
+
+## Freelance websites: 
+
+ - [Freelancer](https://www.freelancer.in/jobs/javascript/)
+
+
 ## Find jobs here (any domain)
 
 - [List of companies](https://github.com/poteto/hiring-without-whiteboards) by [Lauren Tan](https://github.com/poteto)
