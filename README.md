@@ -53,6 +53,11 @@
  - [Freelancer](https://www.freelancer.in/jobs/javascript/)
 
 
+## Find open source projects here
+
+ - [Open Source projects](https://opensource.twitter.dev/projects/)
+
+
 ## Find jobs here (any domain)
 
 - [List of companies](https://github.com/poteto/hiring-without-whiteboards) by [Lauren Tan](https://github.com/poteto)
