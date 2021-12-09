@@ -8,6 +8,7 @@
 - [Top 155 React Interview questions](https://www.fullstack.cafe/interview-questions/react)
 - [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
+- [Virtual DOMin React](https://hackernoon.com/virtual-dom-reconciliation-and-diffing-algorithm-explained-simply-ycn34gr)
 
 
 ## Practice mock interviews
