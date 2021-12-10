@@ -57,6 +57,7 @@
 ## Find open source projects here
 
  - [Open Source projects](https://opensource.twitter.dev/projects/)
+ - [Open Source websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#open-source-websites)
 
 
 ## Find jobs here (any domain)
