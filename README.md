@@ -1,5 +1,7 @@
 ## Frontend Interview related questions (resources)
 
+  <p> Common topics in JavaScript to understand in depth: </p>
+
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
 - [Coding Problems faced in JavaScript](https://devdebarshi.hashnode.dev/crack-the-next-js-interview-part-1) by [Debarshi Bhattacharjee](https://github.com/Debarshi95)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
@@ -9,6 +11,7 @@
 - [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 - [Virtual DOM in React](https://hackernoon.com/virtual-dom-reconciliation-and-diffing-algorithm-explained-simply-ycn34gr)
+- ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by Dmitri Pavlutin
 
 
 ## Practice mock interviews
