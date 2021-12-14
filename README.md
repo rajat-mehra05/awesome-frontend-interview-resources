@@ -12,6 +12,7 @@
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 - [Virtual DOM in React](https://hackernoon.com/virtual-dom-reconciliation-and-diffing-algorithm-explained-simply-ycn34gr)
 - ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by Dmitri Pavlutin
+- [Prototypal Inheritance in JS](https://blog.yogeshchavan.dev/how-prototypal-inheritance-works-in-javascript) by [Yogesh Chavan](https://blog.yogeshchavan.dev/)
 
 
 ## Practice mock interviews
