@@ -92,7 +92,8 @@ A big thank you to the authors of respective blogs and repos. 🔥
 
 # Note
 
-- I created this repository so that people could reach out to various useful resources/repos of others from a single place.
+- I have created this repository so that people could reach out to various useful resources/repos of others from a single source.
+- All the credits goes to respective authors/creators (and not me, obviously!).
 - If you find this repo helpful, you can give it a star and fork it and let others know.
 - If you wish to contribute to this repository, feel free to make a pull request.
-   I will review it and merge it if I find it helpful to the developer community. :)
+   I will review it and merge it if I find it helpful to the developers' community. :)
