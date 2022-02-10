@@ -4,6 +4,7 @@
 
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
 - [Guide to cracking interviews](https://alphaayush.notion.site/alphaayush/2e13395deff94a428d45b3aa88dc7ee7?v=06b5c5617b8442bc878bd210257786ad) by Ayush Singh
+- [React interview coding questions](https://github.com/shrutikapoor08/react-coding-interview-questions) by [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Interview concepts guide](https://codewithsimran.substack.com/p/comprehensive-front-end-interview?utm_campaign=post&utm_medium=web&utm_source=) by CodeWithSimran
 - [Coding Problems faced in JavaScript](https://devdebarshi.hashnode.dev/crack-the-next-js-interview-part-1) by [Debarshi Bhattacharjee](https://github.com/Debarshi95)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
