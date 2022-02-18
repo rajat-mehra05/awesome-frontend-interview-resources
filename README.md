@@ -7,6 +7,7 @@
 - [React interview coding questions](https://github.com/shrutikapoor08/react-coding-interview-questions) by [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Interview concepts guide](https://codewithsimran.substack.com/p/comprehensive-front-end-interview?utm_campaign=post&utm_medium=web&utm_source=) by CodeWithSimran
 - [Coding Problems faced in JavaScript](https://devdebarshi.hashnode.dev/crack-the-next-js-interview-part-1) by [Debarshi Bhattacharjee](https://github.com/Debarshi95)
+- [Async Functions](https://tkdodo.eu/blog/about-async-functions) by [TkDodo](https://github.com/tkdodo)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
 - [JavaScript Interview advanced questions](https://rajatgupta.xyz/js-interview-2) by [Rajat Gupta](https://github.com/rajatetc)
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
