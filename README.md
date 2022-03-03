@@ -23,8 +23,8 @@
 
 - [List of companies](https://github.com/poteto/hiring-without-whiteboards) by [Lauren Tan](https://github.com/poteto)
   
-   1. Companies that don't have a broken hiring process
-   2. The companies and teams listed here use interview techniques and questions that resemble day-to-day work. 
+    - Companies that don't have a broken hiring process
+    - The companies and teams listed here use interview techniques and questions that resemble day-to-day work. 
       For example, pairing on a real world problem or a paid/unpaid take home exercise.   
  
 - If you wish to search/sort/filter/group companies, check [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs) 
