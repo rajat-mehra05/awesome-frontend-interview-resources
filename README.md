@@ -43,9 +43,11 @@
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
 
-## Coding Challenges in JavaScript
+## Practice coding challenges in JavaScript/React
 
 - [JavaScript coding challenges](https://github.com/sadanandpai/javascript-code-challenges) by [Sadanand Pai](https://github.com/sadanandpai)
+- [BigFrontend.Dev](https://bigfrontend.dev/react) for React
+- [BigFrontend.Dev](https://bigfrontend.dev/quiz) for JavaScript
 
 
 ## React resources to learn
