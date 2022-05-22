@@ -36,6 +36,7 @@
  - [HasJob](https://hasjob.co/)
  - [Refer please](https://www.referplease.com/)
  - [Enthire](https://enthire.co/)
+ - [Talent.io](https://www.talent.io/p/en-fr/home)
 
 
 ## Practice mock interviews
