@@ -13,6 +13,7 @@
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
 - [Top 155 React Interview questions](https://www.fullstack.cafe/interview-questions/react)
 - [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
+- [Should I use rems/em or pixels ?](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 - [Virtual DOM in React](https://hackernoon.com/virtual-dom-reconciliation-and-diffing-algorithm-explained-simply-ycn34gr)
 - ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by Dmitri Pavlutin
