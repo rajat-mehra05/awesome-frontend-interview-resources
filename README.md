@@ -34,6 +34,7 @@
     - Book your test slot
     - Give interviews as per your convenience. 
 
+ - [ARC](https://arc.dev/) 
  - [HasJob](https://hasjob.co/)
  - [Refer please](https://www.referplease.com/)
  - [Enthire](https://enthire.co/)
