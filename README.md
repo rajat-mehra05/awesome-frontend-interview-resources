@@ -3,7 +3,9 @@
   <p> Common topics in JavaScript to understand in depth: </p>
 
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
+- ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by [Dmitri Pavlutin](https://dmitripavlutin.com/)
 - [Guide to cracking interviews](https://alphaayush.notion.site/alphaayush/2e13395deff94a428d45b3aa88dc7ee7?v=06b5c5617b8442bc878bd210257786ad) by Ayush Singh
+- [JS interview questions](https://roadsidecoder.hashnode.dev/) on `objects`, `closures`, `functions`, etc by Piyush Agarwal aka [RoadsideCoder](https://www.youtube.com/watch?v=XnFIX3c7xoI&ab_channel=RoadsideCoder) 
 - [React interview coding questions](https://github.com/shrutikapoor08/react-coding-interview-questions) by [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Interview concepts guide](https://codewithsimran.substack.com/p/comprehensive-front-end-interview?utm_campaign=post&utm_medium=web&utm_source=) by CodeWithSimran
 - [Coding Problems faced in JavaScript](https://devdebarshi.hashnode.dev/crack-the-next-js-interview-part-1) by [Debarshi Bhattacharjee](https://github.com/Debarshi95)
@@ -16,7 +18,6 @@
 - [Should I use rems/em or pixels ?](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 - [Virtual DOM in React](https://hackernoon.com/virtual-dom-reconciliation-and-diffing-algorithm-explained-simply-ycn34gr)
-- ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by Dmitri Pavlutin
 - [Prototypal Inheritance in JS](https://blog.yogeshchavan.dev/how-prototypal-inheritance-works-in-javascript) by [Yogesh Chavan](https://blog.yogeshchavan.dev/)
 
 
