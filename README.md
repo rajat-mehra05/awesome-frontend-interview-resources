@@ -8,7 +8,6 @@
 - [JS interview questions](https://roadsidecoder.hashnode.dev/) on `objects`, `closures`, `functions`, etc by Piyush Agarwal aka [RoadsideCoder](https://www.youtube.com/watch?v=XnFIX3c7xoI&ab_channel=RoadsideCoder) 
 - [React interview coding questions](https://github.com/shrutikapoor08/react-coding-interview-questions) by [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Interview concepts guide](https://codewithsimran.substack.com/p/comprehensive-front-end-interview?utm_campaign=post&utm_medium=web&utm_source=) by CodeWithSimran
-- [Coding Problems faced in JavaScript](https://devdebarshi.hashnode.dev/crack-the-next-js-interview-part-1) by [Debarshi Bhattacharjee](https://github.com/Debarshi95)
 - [Async Functions](https://tkdodo.eu/blog/about-async-functions) by [TkDodo](https://github.com/tkdodo)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
 - [JavaScript Interview advanced questions](https://rajatgupta.xyz/js-interview-2) by [Rajat Gupta](https://github.com/rajatetc)
@@ -46,6 +45,7 @@
 
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
+
 
 ## Practice coding challenges in JavaScript/React
 
