@@ -3,6 +3,7 @@
   <p> Common topics in JavaScript to understand in depth: </p>
 
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
+- [30 seconds of Interview](https://30secondsofinterviews.org/) - Best for revising interview concepts 
 - [5 practical interview questions on Promises](https://rehansattar.dev/five-practical-interview-questions-related-to-promises) 
 - ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by [Dmitri Pavlutin](https://dmitripavlutin.com/)
 - [Guide to cracking interviews](https://alphaayush.notion.site/alphaayush/2e13395deff94a428d45b3aa88dc7ee7?v=06b5c5617b8442bc878bd210257786ad) by Ayush Singh
