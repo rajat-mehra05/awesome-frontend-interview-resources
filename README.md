@@ -4,6 +4,7 @@
 
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
 - [30 seconds of Interview](https://30secondsofinterviews.org/) - Best for revising interview concepts 
+- [Why React re-renders ?](https://www.joshwcomeau.com/react/why-react-re-renders/) by [Josh Comeau](https://www.joshwcomeau.com/)
 - [useMemo and useCallback blog](https://www.joshwcomeau.com/react/usememo-and-usecallback/) by [Josh Comeau](https://www.joshwcomeau.com/) 
 - [5 practical interview questions on Promises](https://rehansattar.dev/five-practical-interview-questions-related-to-promises) 
 - ['this' in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) by [Dmitri Pavlutin](https://dmitripavlutin.com/)
