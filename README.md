@@ -25,6 +25,16 @@
 - [Prototypal Inheritance in JS](https://blog.yogeshchavan.dev/how-prototypal-inheritance-works-in-javascript) by [Yogesh Chavan](https://blog.yogeshchavan.dev/)
 
 
+## Practice coding challenges in JavaScript/React
+
+- [Frontend Machine Coding Questions](https://frontendeval.com/)
+- [JavaScript coding challenges](https://github.com/sadanandpai/javascript-code-challenges) by [Sadanand Pai](https://github.com/sadanandpai)
+- [DOM Challenges](https://github.com/sunnypuri/dom-challenge-problems) by Sunny Puri
+- [DOM Challenges](https://github.com/devkodeio/the-dom-challenge) by Devkodeio
+- [BigFrontend.Dev](https://bigfrontend.dev/react) for React
+- [BigFrontend.Dev](https://bigfrontend.dev/quiz) for JavaScript
+
+
 ## Find jobs here (any domain)
 
 - [Reactiflux Jobs](https://www.reactiflux.com/jobs)
@@ -52,15 +62,6 @@
 
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
-
-
-## Practice coding challenges in JavaScript/React
-
-- [JavaScript coding challenges](https://github.com/sadanandpai/javascript-code-challenges) by [Sadanand Pai](https://github.com/sadanandpai)
-- [DOM Challenges](https://github.com/sunnypuri/dom-challenge-problems) by Sunny Puri
-- [DOM Challenges](https://github.com/devkodeio/the-dom-challenge) by Devkodeio
-- [BigFrontend.Dev](https://bigfrontend.dev/react) for React
-- [BigFrontend.Dev](https://bigfrontend.dev/quiz) for JavaScript
 
 
 ## React resources to learn
