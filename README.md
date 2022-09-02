@@ -3,6 +3,8 @@
   <p> Common topics in JavaScript to understand in depth: </p>
 
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
+- [Promises in JavaScript](https://blog.greenroots.info/series/javascript-promises) by [Tapas Adhikari](https://blog.greenroots.info/)
+- [Quiz on Promises](https://danlevy.net/javascript-promises-quiz/)
 - [30 seconds of Interview](https://30secondsofinterviews.org/) - Best for revising interview concepts 
 - [Why React re-renders ?](https://www.joshwcomeau.com/react/why-react-re-renders/) by [Josh Comeau](https://www.joshwcomeau.com/)
 - [useMemo and useCallback blog](https://www.joshwcomeau.com/react/usememo-and-usecallback/) by [Josh Comeau](https://www.joshwcomeau.com/) 
@@ -17,7 +19,6 @@
 - [JavaScript Interview advanced questions](https://rajatgupta.xyz/js-interview-2) by [Rajat Gupta](https://github.com/rajatetc)
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
 - [Top 155 React Interview questions](https://www.fullstack.cafe/interview-questions/react)
-- [JavsScript Promises](https://danlevy.net/javascript-promises-quiz/)
 - [Should I use rems/em or pixels ?](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) 
 - [Virtual DOM in React](https://hackernoon.com/virtual-dom-reconciliation-and-diffing-algorithm-explained-simply-ycn34gr)
