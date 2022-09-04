@@ -5,6 +5,7 @@
 - [Namaste JavaScript series on youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini 
 - [Promises in JavaScript](https://blog.greenroots.info/series/javascript-promises) by [Tapas Adhikari](https://blog.greenroots.info/)
 - [Quiz on Promises](https://danlevy.net/javascript-promises-quiz/)
+- [Interview Questions on Promises](https://betterprogramming.pub/10-javascript-promise-challenges-before-you-start-an-interview-c9af8d4144ec)
 - [30 seconds of Interview](https://30secondsofinterviews.org/) - Best for revising interview concepts 
 - [Why React re-renders ?](https://www.joshwcomeau.com/react/why-react-re-renders/) by [Josh Comeau](https://www.joshwcomeau.com/)
 - [useMemo and useCallback blog](https://www.joshwcomeau.com/react/usememo-and-usecallback/) by [Josh Comeau](https://www.joshwcomeau.com/) 
