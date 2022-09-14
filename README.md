@@ -28,6 +28,7 @@
 
 ## Practice coding challenges in JavaScript/React
 
+- [Algochurn](https://www.algochurn.com/) by [Manu Arora](https://manuarora.in/)
 - [Frontend Machine Coding Questions](https://frontendeval.com/)
 - [JavaScript coding challenges](https://github.com/sadanandpai/javascript-code-challenges) by [Sadanand Pai](https://github.com/sadanandpai)
 - [DOM Challenges](https://github.com/sunnypuri/dom-challenge-problems) by Sunny Puri
