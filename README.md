@@ -92,7 +92,7 @@
 
  - [JavaScript Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
  - [JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) book by Addy Osmani
-
+ - [Interview Questions on System Design](https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67)
  - [Free Figma Component library](https://www.figmacomponents.com/?ref=peerlist) (For taking design inspirations)
 
 
