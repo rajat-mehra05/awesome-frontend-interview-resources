@@ -27,6 +27,7 @@ A curated collection of resources for frontend developers preparing for intervie
 - [Ace the JS interview](https://manuarora.in/blog/ace-the-javascript-interview)
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
+- [AI Mock JS Interview](https://mock.feedback/)
 
 ### Algorithms
 
