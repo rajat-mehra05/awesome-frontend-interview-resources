@@ -21,6 +21,7 @@ A curated collection of resources for frontend developers preparing for intervie
 
 ### Interview Questions
 
+- [FrontPrep](https://www.frontprep.com)
 - [JavaScript Code Challenges](https://jscodechallenges.vercel.app/concepts/variables)
 - [JS interview questions](https://roadsidecoder.hashnode.dev/) on `objects`, `closures`, `functions`, etc by Piyush Agarwal aka [RoadsideCoder](https://www.youtube.com/watch?v=XnFIX3c7xoI&ab_channel=RoadsideCoder)
 - [JavaScript Interview advanced questions](https://rajatgupta.xyz/js-interview-2) by [Rajat Gupta](https://github.com/rajatetc)
