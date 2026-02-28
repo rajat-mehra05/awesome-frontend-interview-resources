@@ -77,6 +77,7 @@ A curated collection of resources for frontend developers preparing for intervie
 - [BigFrontend.Dev](https://bigfrontend.dev/quiz) for JavaScript
 - [Leetcode Interview Questions](https://leetcode.com/problemset/)
 - [Learn by actual coding](https://academy.bigbinary.com/) by Big Binary
+- [FrontendAtlas](https://frontendatlas.com/coding) — Real-world frontend coding challenges + frontend system design practice.
 
 ### DOM Challenges
 
