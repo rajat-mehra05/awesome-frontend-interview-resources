@@ -128,6 +128,7 @@ A curated collection of resources for frontend developers preparing for intervie
 
 ### Job Boards
 
+- [Hanzilla Jobs — Canada Frontend/Software Engineering](https://jobs.hanzilla.co/categories/software-engineering/) - Daily-updated Canadian student and recent-grad jobs board with internships, co-ops, new grad, junior, and entry-level frontend/software roles.
 - [Remote Hiring List](https://drive.google.com/file/d/1MfOWMA40DrxL3vSFnUgNqlXM5l8ZCejo/view)
 - [Zapier Partners](https://docs.google.com/spreadsheets/d/e/2PACX-1vSF7dyfr8rSf0U4PSRT4aO1rYQ8rApjFgRccNATGNcE2VBxgBgFTlMnVy47cwnNRvyG3Tqzh6cag5Nv/pubhtml?gid=0&single=true)
 - [Jobs on Remotive List](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
