@@ -58,6 +58,7 @@ A curated collection of resources for frontend developers preparing for intervie
 
 - [Articles/Blogs resources related to React](https://reactresources.com/articles)
 - [React with webpack resource](https://www.packtpub.com/product/hands-on-webpack-for-react-development-video/9781789139808)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ---
 
