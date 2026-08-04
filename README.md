@@ -143,6 +143,7 @@ A curated collection of resources for frontend developers preparing for intervie
 - [Refer please](https://www.referplease.com/)
 - [Enthire](https://enthire.co/)
 - [Talent.io](https://www.talent.io/p/en-fr/home)
+- [Jobs in JS](https://jobsinjs.com/) - Job board for JavaScript developers.
 
 ### Freelance
 
