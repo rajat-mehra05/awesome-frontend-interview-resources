@@ -9,6 +9,7 @@ A curated collection of resources for frontend developers preparing for intervie
 
 ### Core Concepts
 
+- [Boring Education](https://www.theboringeducation.com/)
 - [Quiz on Advanced JS Error Mastery](https://danlevy.net/quiz-advanced-js-error-mastery/)
 - [Namaste JavaScript series on YouTube](https://www.youtube.com/watch?v=pN6jk0uUrD8) by Akshay Saini
 - [Promises in JavaScript](https://blog.greenroots.info/series/javascript-promises) by [Tapas Adhikari](https://blog.greenroots.info/)
