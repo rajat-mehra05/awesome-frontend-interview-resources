@@ -20,6 +20,15 @@ A curated collection of resources for frontend developers preparing for intervie
 - [Prototypal Inheritance in JS](https://blog.yogeshchavan.dev/how-prototypal-inheritance-works-in-javascript) by [Yogesh Chavan](https://blog.yogeshchavan.dev/)
 - [Async Functions](https://tkdodo.eu/blog/about-async-functions) by [TkDodo](https://github.com/tkdodo)
 
+## 🏗️ System Design and Design Patterns
+
+- [System Design Playground By IoCombats](https://iocombats.com/system-design-playground)
+- [Frontend Interview System Design](https://www.greatfrontend.com/front-end-system-design-playbook/introduction)
+- [Interview Questions on System Design](https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67)
+- [JavaScript Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
+- [JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) book by Addy Osmani
+- [Free Figma Component library](https://www.figmacomponents.com/?ref=peerlist) (For taking design inspirations)
+
 ### Interview Questions
 
 - [FrontPrep](https://www.frontprep.com)
@@ -112,16 +121,6 @@ A curated collection of resources for frontend developers preparing for intervie
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) book by Addy Osmani
-
----
-
-## 🏗️ System Design and Design Patterns
-
-- [Frontend Interview System Design](https://www.greatfrontend.com/front-end-system-design-playbook/introduction)
-- [Interview Questions on System Design](https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67)
-- [JavaScript Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
-- [JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) book by Addy Osmani
-- [Free Figma Component library](https://www.figmacomponents.com/?ref=peerlist) (For taking design inspirations)
 
 ---
 
