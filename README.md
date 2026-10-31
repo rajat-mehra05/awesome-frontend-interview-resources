@@ -108,6 +108,7 @@ A curated collection of resources for frontend developers preparing for intervie
 
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
+- [Interview Pair Timer](https://szj2ys.github.io/interview-pair-timer/) - Downloadable timer for 15 active minutes of paired behavioral-answer practice, with follow-up questions, feedback, and a retry; pauses and transitions are additional.
 
 ### Interview Experiences
 
