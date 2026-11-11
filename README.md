@@ -108,6 +108,7 @@ A curated collection of resources for frontend developers preparing for intervie
 
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
+- [Aethel](https://aethel.pro/practice) - Free practice for AI interviews, with frontend questions at junior, mid-level and senior. No account needed
 
 ### Interview Experiences
 
