@@ -39,6 +39,7 @@ A curated collection of resources for frontend developers preparing for intervie
 - [123 Essential JS questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/en/javascript-questions/)
 - [AI Mock JS Interview](https://mock.feedback/)
+- [Mentaro JavaScript Interview Questions](https://github.com/mrZedov/mentaro-interview-questions/tree/main/javascript) - 17 questions with answers and practical code examples.
 
 ### Algorithms
 
